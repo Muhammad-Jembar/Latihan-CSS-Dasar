@@ -1,0 +1,11 @@
+li:nth-child(even) a {
+color: lightgreen;
+}
+
+li:nth-child(even) a:hover {
+    color: lightcoral;
+}
+
+p:last-of-type {
+    color: lightsalmon;
+}
